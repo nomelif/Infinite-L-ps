@@ -1,0 +1,2 @@
+labyrinth 200 points
+Rest of challenges 0 points
